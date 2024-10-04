@@ -40,7 +40,7 @@ _This repo is archived. If you are looking for the latest, check out [open-sauce
   </a>
 </p>
 
-## I ADDED TEXT
+## I ADDED TEXT, HUH?
 
 Open Sauced provides structured onboarding for new contributors to open source. This structure provides a way to track your next contributions by leveraging a unique dashboard built on top of the [GitHub GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql).
 
